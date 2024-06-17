@@ -7,7 +7,7 @@ Notes:
 6. Number() // do not forget string - number!!!
 7. Application of shuffleArray in map!!! (correct placement)
 8. Nested ternary operators
-9. Jen v tom useEffectu při fetchy bych použil try / catch, místo .then
+9. Jen v tom useEffectu při fetch bych použil try / catch, místo .then
 
 Ulehčí ti to práci, bude to čitelnější a budeš tam mít možnost lehce podchytit právě ten error handling
 
